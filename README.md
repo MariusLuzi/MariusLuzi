@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MariusLuzi
-- 👀 I’m interested in Software Automation
-- 🌱 I’m currently learning Software Testing
-- 💞️ I’m looking to collaborate on Software Testing (Manual or Automation)
+- 👀 I’m interested in Software Automation & Backend Developer
+- 🌱 I’m currently Working as a Software Tester (Manual and Automation)
 - 📫 How to reach me by email: luzimarius8@gmail.com
 
 <!---
