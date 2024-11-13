@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariusLuzi
-- 👀 I’m interested in Software Automation & Backend Developer
+- 👀 I’m interested in Software Automation & Junior Backend Developer
 - 🌱 I’m currently Working as a Software Tester (Manual and Automation)
 - 📫 How to reach me by email: luzimarius8@gmail.com
 
