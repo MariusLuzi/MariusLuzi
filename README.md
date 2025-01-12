@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariusLuzi
-- 👀 I’m interested in Software Automation & Junior Backend Developer
-- 🌱 I’m currently Working as a Software Tester (Manual and Automation)
+- 👀 I’m interested in Software Automation in Cypress with JavaScript.
+- 🌱 I’m currently Working as a Software Tester (Manual and Junior Automation)
 - 📫 How to reach me by email: luzimarius8@gmail.com
 
 <!---
